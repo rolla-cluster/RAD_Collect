@@ -2,25 +2,25 @@
 Recursive Azure Active Directory User collection script in Powershell. 
 
 
---SourceGroup:
---------User A
---------User B
---------Group 1
--------------User C
--------------User D
--------------Group 2
------------------User E
------------------User F
-      | |
-      | |
-      | |
-      \ /
-       v
+--SourceGroup:<br>
+--------User A<br>
+--------User B<br>
+--------Group 1<br>
+-------------User C<br>
+-------------User D<br>
+-------------Group 2<br>
+-----------------User E<br>
+-----------------User F<br>
+      | |<br>
+      | |<br>
+      | |<br>
+      \ /<br>
+       v<br>
 
---AggregateGroup:
---------User A
---------User B
---------User C
---------User D
---------User E
---------User F
+--AggregateGroup:<br>
+--------User A<br>
+--------User B<br>
+--------User C<br>
+--------User D<br>
+--------User E<br>
+--------User F<br>
